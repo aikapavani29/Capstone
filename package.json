@@ -2,9 +2,10 @@
   "name": "wedding-planner",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node build.js",
     "preview": "vite preview",
     "server": "json-server --watch db.json --port 3001"
   },
