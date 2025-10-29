@@ -7,12 +7,12 @@ export default function Reviews() {
         <h2 className="section-title">client's <span>review</span></h2>
         <div className="review-list">
           <blockquote>
-            <img src="/imges/pic2.png" alt="" />
+            
             <p>Our corporate event was a great success, thanks to your excellent planning!</p>
             <cite>— Leo</cite>
           </blockquote>
           <blockquote>
-            <img src="/imges/pic3.png" alt="" />
+           
             <p>The event was fantastic! Everything went perfectly, and the food was delicious!</p>
             <cite>— Riya</cite>
           </blockquote>
